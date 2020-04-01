@@ -7,7 +7,7 @@
       <hr class="hr">
       <div class="box">
         <div class="box">
-          <b-field label="Happy Tuesday!"
+          <b-field label="Happy Wednesday!"
                    class="is-marginless"
           >
             <b-input v-model="message" maxlength="140" type="textarea"></b-input>
