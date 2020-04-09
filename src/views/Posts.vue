@@ -1,13 +1,13 @@
 <template>
   <div class="container">
     <hr class="hr is-invisible">
-    <div class="box" style="background-color: orange;">
+    <div class="box">
 
       <h1 class="title">Posts</h1>
       <hr class="hr">
       <div class="box">
         <div class="box">
-          <b-field label="Happy Thursday!"
+          <b-field label="Happy Wednesday!"
                    class="is-marginless"
           >
             <b-input v-model="message" maxlength="140" type="textarea"></b-input>
