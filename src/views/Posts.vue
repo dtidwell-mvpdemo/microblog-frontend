@@ -3,11 +3,11 @@
     <hr class="hr is-invisible">
     <div class="box" style="background-color: orange;">
 
-      <h1 class="title">Posts</h1>
+      <h1 class="title">BeeBank Customer Feedback Portal</h1>
       <hr class="hr">
       <div class="box">
         <div class="box">
-          <b-field label="Happy THursday!"
+          <b-field label="How are we doing?"
                    class="is-marginless"
           >
             <b-input v-model="message" maxlength="140" type="textarea"></b-input>
