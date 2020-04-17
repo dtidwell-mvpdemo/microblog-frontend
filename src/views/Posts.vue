@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <hr class="hr is-invisible">
-    <div class="box" style="background-color: orange; ">
+    <div class="box" style="background-color: orange;">
 
       <h1 class="title">BeeBank Customer Feedback Portal</h1>
       <hr class="hr">
